@@ -14,3 +14,8 @@
 - Charts: Sales by City, Rating count by City, Active users by city
 - Bookmarks: Hide filters and show filters.
 
+**Project Video**
+
+https://github.com/abdullahayub/Zomato-Data-Analytics-Power-BI-Project/assets/37545634/acb4a25c-ce5b-4934-bc8a-5f05f92c79a1
+
+
